@@ -1,62 +1,40 @@
-<!-- <p align="center">
-    <img  width="800" height="500" src="https://github.com/mayankv03/mayankv03/pictures/intro.png">
-</p> -->
-<h2 align="center">Hello there! I'm Mayank Vishwakarma. 👋</h2>
-<p align="center">I am a dedicated Python Developer with experience in full-stack development, working with a talented team to deliver innovative, scalable, and efficient solutions. My expertise in Python, combined with my strong foundation in programming fundamentals and problem-solving skills, enables me to execute projects successfully.</p>
-
-<p align="center">
-    <a href="https://x.com/webmayank">
-        <img src="https://github.com/mayankv03/mayankv03/blob/main/pictures/logos/twitter.svg" height=25>
-    </a>
-    <a href="https://www.linkedin.com/in/mayankv03/">
-        <img src="https://github.com/mayankv03/mayankv03/blob/main/pictures/logos/linkedin.svg" height=25>
-    </a>
-    <!--  <a href="https://www.instagram.com/mayankv03/">
-        <img src="https://github.com/mayankv03/mayankv03/blob/main/pictures/logos/instagram.svg" height=25>
-    </a>  -->
-</p>
-
+<!--
+__/\\\\____________/\\\\___/\\\________/\\\___/\\\\\_____/\\\___/\\\________/\\\__________/\\\\____________/\\\\___/\\\\\\\\\\\\\\\_
+ _\/\\\\\\________/\\\\\\__\///\\\____/\\\/___\/\\\\\\___\/\\\__\/\\\_____/\\\//__________\/\\\\\\________/\\\\\\__\/\\\///////////__
+  _\/\\\//\\\____/\\\//\\\____\///\\\/\\\/_____\/\\\/\\\__\/\\\__\/\\\__/\\\//_____________\/\\\//\\\____/\\\//\\\__\/\\\_____________
+   _\/\\\\///\\\/\\\/_\/\\\______\///\\\/_______\/\\\//\\\_\/\\\__\/\\\\\\//\\\_____________\/\\\\///\\\/\\\/_\/\\\__\/\\\\\\\\\\\_____
+    _\/\\\__\///\\\/___\/\\\________\/\\\________\/\\\\//\\\\/\\\__\/\\\//_\//\\\____________\/\\\__\///\\\/___\/\\\__\/\\\///////______
+     _\/\\\____\///_____\/\\\________\/\\\________\/\\\_\//\\\/\\\__\/\\\____\//\\\___________\/\\\____\///_____\/\\\__\/\\\_____________
+      _\/\\\_____________\/\\\________\/\\\________\/\\\__\//\\\\\\__\/\\\_____\//\\\__________\/\\\_____________\/\\\__\/\\\_____________
+       _\/\\\_____________\/\\\________\/\\\________\/\\\___\//\\\\\__\/\\\______\//\\\___/\\\__\/\\\_____________\/\\\__\/\\\\\\\\\\\\\\\_
+        _\///______________\///_________\///_________\///_____\/////___\///________\///___\///___\///______________\///___\///////////////__
+-->
+<h1 align="center">Hello there! I'm <img src="https://mynk.me/text-logo.webp" align="center" width="140px">👋</h1>
+<h3 align="center">Full Stack Developer, and IT Consultant</h3>
 <p align=center>
     <a href="https://github.com/mayankv03">
         <img src="https://img.shields.io/github/followers/mayankv03?style=social">
     </a>
+    &nbsp;
     <a href="https://github.com/mayankv03">
         <img src="https://badges.pufler.dev/visits/mayankv03/mayankv03?style=flat-square&color=black&logo=github">
     </a>
+    &nbsp;
     <a href="https://github.com/mayankv03?tab=repositories">
         <img src="https://badges.pufler.dev/repos/mayankv03?style=flat-square&color=black&logo=github">
     </a>
 </p>
-<!-- <p align="center">
-    <img src="https://img.shields.io/badge/Web-brown"> 
-    <img src="https://img.shields.io/badge/Machine Learning-green"> 
-    <img src="https://img.shields.io/badge/Deep Learning-red"> 
-    <img src="https://img.shields.io/badge/Computer Vision-magenta"> 
-    <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> 
-    <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
-</p> -->
-<hr>
 <p align="center">
-    <!--  <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />  -->
-    <!--  <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>  -->
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-    <!--  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>  -->
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayankv03&show_icons=true&theme=radical&count_private=true" alt="Mayank's GitHub Stats" style="min-height:150px" />
 </p>
 
-<p align=center>
-    <img align=center
-        src="https://github-readme-stats.vercel.app/api?username=mayankv03&show_icons=true&theme=radical"><br>
-    <img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=mayankv03">
-</p>
-<h3 align="center"> 📚 My Skills </h3>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankv03&theme=discord" alt="mayankv03" /></a></p>
+
 <hr>
+<div align="center">
+  💬 Ask me about <b>Python, JS/TS, PHP</b>
+  📫 How to reach me <b><a href="mailto:mayank@mynk.me">mayank@mynk.me</a></b>
+</div>
 <p align="center">
-    <img align=center
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankv03&layout=compact&show_icons=true&theme=dark">
+    <img align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankv03&layout=compact&show_icons=true&theme=radical"  style="min-height:150px" alt="Mayank's Top Languages">
 </p>
