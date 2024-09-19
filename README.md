@@ -31,10 +31,12 @@ __/\\\\____________/\\\\___/\\\________/\\\___/\\\\\_____/\\\___/\\\________/\\\
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankv03&theme=discord" alt="mayankv03" /></a></p>
 
 <hr>
+<br>
 <div align="center">
   💬 Ask me about <b>Python, JS/TS, PHP</b>
   📫 How to reach me <b><a href="mailto:mayank@mynk.me">mayank@mynk.me</a></b>
 </div>
+<br>
 <p align="center">
     <img align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankv03&layout=compact&show_icons=true&theme=radical"  style="min-height:150px" alt="Mayank's Top Languages">
 </p>
