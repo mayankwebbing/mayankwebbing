@@ -28,7 +28,9 @@ __/\\\\____________/\\\\___/\\\________/\\\___/\\\\\_____/\\\___/\\\________/\\\
     <img src="https://github-readme-stats.vercel.app/api?username=mayankv03&show_icons=true&theme=radical&count_private=true" alt="Mayank's GitHub Stats" style="min-height:150px" />
 </p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankv03&theme=discord" alt="mayankv03" /></a></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankv03&theme=discord" alt="mayankv03" />
+</p>
 
 <hr>
 <br>
