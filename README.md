@@ -12,24 +12,24 @@ __/\\\\____________/\\\\___/\\\________/\\\___/\\\\\_____/\\\___/\\\________/\\\
 <h1 align="center">Hello there! I'm <img src="https://mynk.me/text-logo.webp" align="center" width="140px">👋</h1>
 <h3 align="center">Full Stack Developer, and IT Consultant</h3>
 <p align=center>
-    <a href="https://github.com/mayankv03">
-        <img src="https://img.shields.io/github/followers/mayankv03?style=social">
+    <a href="https://github.com/mayankwebbing">
+        <img src="https://img.shields.io/github/followers/mayankwebbing?style=social">
     </a>
     &nbsp;
-    <a href="https://github.com/mayankv03">
-        <img src="https://badges.pufler.dev/visits/mayankv03/mayankv03?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/mayankwebbing">
+        <img src="https://badges.pufler.dev/visits/mayankwebbing/mayankwebbing?style=flat-square&color=black&logo=github">
     </a>
     &nbsp;
-    <a href="https://github.com/mayankv03?tab=repositories">
-        <img src="https://badges.pufler.dev/repos/mayankv03?style=flat-square&color=black&logo=github">
+    <a href="https://github.com/mayankwebbing?tab=repositories">
+        <img src="https://badges.pufler.dev/repos/mayankwebbing?style=flat-square&color=black&logo=github">
     </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mayankv03&show_icons=true&theme=radical&count_private=true" alt="Mayank's GitHub Stats" style="min-height:150px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mayankwebbing&show_icons=true&theme=radical&count_private=true" alt="Mayank's GitHub Stats" style="min-height:150px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayankv03&theme=discord" alt="mayankv03" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayankwebbing&theme=discord" alt="mayankwebbing" />
 </p>
 
 <hr>
@@ -40,5 +40,5 @@ __/\\\\____________/\\\\___/\\\________/\\\___/\\\\\_____/\\\___/\\\________/\\\
 </div>
 <br>
 <p align="center">
-    <img align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankv03&layout=compact&show_icons=true&theme=radical"  style="min-height:150px" alt="Mayank's Top Languages">
+    <img align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankwebbing&layout=compact&show_icons=true&theme=radical"  style="min-height:150px" alt="Mayank's Top Languages">
 </p>
